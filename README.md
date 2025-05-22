@@ -1,5 +1,7 @@
 🙋‍♂️ Autor / Author
+
 Adair Junior (a.k.a. Junior)
+
 Técnico em Informática | Entusiasta de Python | Hacker nas horas vagas 🧠💻
 
 
